@@ -17,7 +17,7 @@ Psystrike will not be a finished product cause of new ideas and probable bug fix
 Psystrike will be my final software and a one of a kind product.
 
 
-- First push will be in early 2021
+- First push will be in early 2022
 
 
 - © Magnus Danielsen 2020 
